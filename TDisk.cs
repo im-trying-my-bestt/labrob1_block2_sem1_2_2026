@@ -52,7 +52,14 @@ namespace Lab1sem1block22026
             pointY = copy.pointY;
             
         }
-        
+        public virtual bool IsEqual(TDisk other)
+        {
+            if (other == null) return false;
+            return radius == other.radius
+                && pointX == other.pointX
+                && pointY == other.pointY;
+        }
+
         public double GetArea()
         { return Math.PI * radius * radius; }
 

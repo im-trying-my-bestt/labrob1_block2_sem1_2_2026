@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab1sem1block22026
 {
-    internal class TBall:TDisk
+    internal class TBall:TDiskF
     {
-        private double pointZ;
+        protected double pointZ;
         public double PointZ
         {
             get { return pointZ; }
@@ -42,11 +42,11 @@ namespace Lab1sem1block22026
         }
         public double GetVolume()
         { return (4.0* base.GetArea()* radius)/3.0; }
-        public bool IsInside(double px, double py)
+        public bool IsInside(double px, double py, double pz)
         {
             double dx = px - pointX;
             double dy = py - pointY;
-            double dz = py - pointZ;
+            double dz = pz - pointZ;
 
             double distance = Math.Sqrt(dx * dx + dy * dy + dz * dz);
 
@@ -57,7 +57,11 @@ namespace Lab1sem1block22026
             if (number <= 0)
                 throw new ArgumentException("Множник має бути більшим за 0.");
 
-            return new TBall(disk.radius * number, disk.pointX, disk.pointY, disk.pointZ);
+            return new TBall(disk.Radius * number, disk.pointX, disk.pointY, disk.pointZ);
+        }
+        public static TBall operator *(double number, TBall ball)
+        {
+            return ball * number;
         }
     }
 }

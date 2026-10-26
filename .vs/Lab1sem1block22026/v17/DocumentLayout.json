@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|d:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab1sem1block22026\\tball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|solutionrelative:tball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|d:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab1sem1block22026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|d:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab1sem1block22026\\tdisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|solutionrelative:tdisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|d:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab1sem1block22026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|d:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab1sem1block22026\\tball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|solutionrelative:tball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|d:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab1sem1block22026\\tballf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|solutionrelative:tballf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|d:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab1sem1block22026\\tdiskf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1255F6-3FD8-4997-9DC7-868213B77AF8}|Lab1sem1block22026.csproj|solutionrelative:tdiskf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TBall.cs",
               "DocumentMoniker": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\TBall.cs",
               "RelativeDocumentMoniker": "TBall.cs",
               "ToolTip": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\TBall.cs",
               "RelativeToolTip": "TBall.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA2wDsAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwCwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T22:04:26.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TBallF.cs",
+              "DocumentMoniker": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\TBallF.cs",
+              "RelativeDocumentMoniker": "TBallF.cs",
+              "ToolTip": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\TBallF.cs",
+              "RelativeToolTip": "TBallF.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:37:56.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:37:07.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TDiskF.cs",
+              "DocumentMoniker": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\TDiskF.cs",
+              "RelativeDocumentMoniker": "TDiskF.cs",
+              "ToolTip": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\TDiskF.cs",
+              "RelativeToolTip": "TDiskF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:33:45.859Z",
               "EditorCaption": ""
             },
             {
@@ -53,22 +100,9 @@
               "RelativeDocumentMoniker": "TDisk.cs",
               "ToolTip": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\TDisk.cs",
               "RelativeToolTip": "TDisk.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T20:10:31.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\programuvannya\\uniproject\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Lab1sem1block22026\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:37:07.257Z",
               "EditorCaption": ""
             }
           ]
